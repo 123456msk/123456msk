@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 我现在并没有很多项目 🥲 但是我有热情来提高自己 🔥 . 如果想了解更多我的项目，请点击这里➡[My GitHub repos](https://github.com/Ignorance-z?tab=repositories)。(其实也没有太多项目，或许可以看看下面⬇这个<b>惨不忍睹</b>的统计数据)
+![msk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ignorance-z&show_icons=true&theme=highcontrast)
+
 
 
 
